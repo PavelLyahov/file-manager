@@ -1,0 +1,16 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file manager task 2 RS School",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavelLyahov/file-manager.git"
+  },
+  "author": "Pavel Lyahov",
+  "license": "ISC"
+}
